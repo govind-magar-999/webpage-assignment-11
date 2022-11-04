@@ -1,6 +1,6 @@
 ### Assignment 11 [Responsive webpage design]
 
-- This is 9th assignment of responsive webpage design part.
+- This is 11th assignment of responsive webpage design part.
 - Deployed link on netlify:
   [https://website-hosting-page-by-govind.netlify.app/](https://website-hosting-page-by-govind.netlify.app/)
   
